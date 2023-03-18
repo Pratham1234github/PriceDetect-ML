@@ -5,3 +5,6 @@ The dataset used for this model consists of various features that influence the 
 This model can be used by real estate agents, homebuyers, and sellers to gain insight into the Bangalore housing market. The model can help them make informed decisions about buying or selling properties. The model can also be used by data scientists and machine learning enthusiasts to learn more about machine learning algorithms and how they can be applied to real-world problems.
 
 In conclusion, this repository provides a valuable tool for predicting house prices in Bangalore. It includes well-documented source code, datasets, and pre-trained models that can be easily modified to suit your specific needs. Whether you're a real estate agent or a data scientist, this repository will help you gain valuable insights into the Bangalore housing market.
+
+banglore csv contains the raw dataset 
+and bhp contains the cleaned up data
