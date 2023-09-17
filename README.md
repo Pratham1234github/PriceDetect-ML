@@ -1,5 +1,3 @@
-Thank you for providing the details of your Bangalore house price prediction project. Let's create a README file for your GitHub repository based on the information you provided:
-
 # (PriceDetect)Bangalore House Price Prediction Model
 
 ![image](https://github.com/Pratham1234github/banglore_house_prediction/assets/128221408/a9b5302f-f896-4300-acb6-9a4951c2ced9)
